@@ -1,0 +1,12 @@
+mediapipe
+opencv-python
+matplotlib
+numpy
+scikit-learn
+tensorflow
+fastapi
+uvicorn
+python-multipart
+pillow
+tensorflow-serving-api
+matplotlib
